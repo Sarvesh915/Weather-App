@@ -22,7 +22,7 @@ This GitHub repository contains the source code for a simple yet powerful Weathe
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/sarveshsce/Weather_App.git
+   git clone https://github.com/Sarvesh915/Weather-App.git
    ```
 
 2. Open the `index.html` file in your web browser to launch the Weather App.
